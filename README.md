@@ -14,6 +14,7 @@ This simple script save and load all open Chrome windows.
 | Back End |
 | :---: |
 | Python |
+| Selenium |
 | Json |
 
 ### ⚙️ Features:
@@ -25,6 +26,7 @@ This simple script save and load all open Chrome windows.
 > Possible new features:
 * ⚫ Graphic interface ⚙️
 * ⚫ Executable file ⚙️
+* ⚫ Extension for Chrome ⚙️
 
 <div align="center">
     <h2>How to contribute?</h2>
@@ -45,6 +47,7 @@ This simple script save and load all open Chrome windows.
 
 ### 📦 Requirements:
 * Python 3.7.9
+* Selenium 4.8.2
 
 ### 📦 Setting:
 1. Open your terminal and open a folder to work.
