@@ -2,7 +2,9 @@
 
 ### [🔑 MIT License](https://github.com/Leandro-Cardoso/SCRIPTS-Organization-SaveChromeWindow/blob/master/LICENSE)
 
-🟡 **Under development** (alpha version) 🔨
+🔴 **Waiting for `chromedriver.exe` v111.0.5563.65** (alpha version) ❌
+
+[https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
 
 <div align="center">
     <h2>About</h2>
@@ -24,6 +26,7 @@ This simple script save and load all open Chrome windows.
 6. 🟡 Save all open Chrome windows in `.json` (included positions and dimensions) ⚙️🔨
 7. 🟡 Load all open Chrome windows saved in `.json` (included positions and dimensions) ⚙️🔨
 > Possible new features:
+* ⚫ Run in others browsers ⚙️
 * ⚫ Graphic interface ⚙️
 * ⚫ Executable file ⚙️
 * ⚫ Extension for Chrome ⚙️
@@ -48,6 +51,7 @@ This simple script save and load all open Chrome windows.
 ### 📦 Requirements:
 * Python 3.7.9
 * Selenium 4.8.2
+* Google Chrome 111.0.5563.65
 
 ### 📦 Setting:
 1. Open your terminal and open a folder to work.
